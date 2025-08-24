@@ -46,6 +46,8 @@ scd2-pipeline-sqlserver/
 │   └── day5_stg_load.sql
 ├── procedure/
 │   └── sp_load_dim_product.sql
+├── diagram/
+│   └── scd2_pipeline.png 
 └── results/
     └── dim_product_expected.csv
 ```
